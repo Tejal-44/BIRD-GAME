@@ -1,1 +1,1 @@
-# BIRD-GAME
+# Bird-game
